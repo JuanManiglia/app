@@ -1,0 +1,39 @@
+.titulo{
+font-family: 'Dosis', sans-serif;
+}
+
+
+body{
+background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.eliminar:link, .eliminar:visited {
+
+  background-color: transparent;
+  color: #252322;
+  text-decoration: none;
+}
+
+.eliminar:hover, .eliminar:active {
+  background-color: transparent;
+  color: black;
+}
+
+.tarea_hecha{
+    text-decoration: line-through;
+    color: #cfcfcf
+}
+
+.archivar:link, .archivar:visited {
+
+  background-color: transparent;
+  color: #252322;
+  text-decoration: none;
+}
+
+.archivar:hover, .archivar:active {
+  background-color: transparent;
+  color: black;
+}
